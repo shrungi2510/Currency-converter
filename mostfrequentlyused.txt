@@ -1,0 +1,10 @@
+Euro	0.844946	1.183507
+British Pound	0.758157	1.318988
+Indian Rupee	74.550914	0.013414
+Australian Dollar	1.375246	0.727143
+Canadian Dollar	1.313379	0.761395
+Singapore Dollar	1.348112	0.741778
+Swiss Franc	0.912508	1.095881
+Malaysian Ringgit	4.122561	0.242568
+Japanese Yen	104.655006	0.009555
+Chinese Yuan Renminbi	6.604539	0.151411
